@@ -17,7 +17,11 @@ Lets go to Mexico!
 
 
 *****
-Technologies: 
+### Resources: 
+
+**Data Source:** cities.csv, Google Maps API's, OpenWeatherMap
+
+**Technologies:** 
 * Jupyter Notebook
 * Python
 * JSON
@@ -25,7 +29,5 @@ Technologies:
 * Matplotlib
 * Numpy
 * CitiPy
-* SciPy
-* Linear Regression Analysis
-* Google Maps API
-* Open Weather API
+* SciPy - Linear Regression Analysis
+
