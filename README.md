@@ -14,3 +14,18 @@ Lets go to Mexico!
 <img width="536" alt="WeatherPy_travel_map" src="https://user-images.githubusercontent.com/111904266/201982278-8ced0c90-216c-491e-bca8-a3c0821fe396.png">
 
 <img width="455" alt="WeatherPy_travel_map_markers" src="https://user-images.githubusercontent.com/111904266/201982288-9773be5c-344f-42e4-8cc0-1721ebb0fbc2.png">
+
+
+*****
+Technologies: 
+* Jupyter Notebook
+* Python
+* JSON
+* Pandas
+* Matplotlib
+* Numpy
+* CitiPy
+* SciPy
+* Linear Regression Analysis
+* Google Maps API
+* Open Weather API
